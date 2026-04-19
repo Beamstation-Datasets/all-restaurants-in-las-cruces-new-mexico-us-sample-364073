@@ -1,12 +1,12 @@
 {
-  "export_job_id": "32e8eb47-a1de-436e-b120-e3f3d0a9fd75",
+  "export_job_id": "fc12a7c5-a1a9-4d47-8f48-ffa31e14efb5",
   "id_short": 364073,
-  "published_at": "2026-04-11T19:35:54Z",
+  "published_at": "2026-04-19T07:59:18Z",
   "repo_name": "all-restaurants-in-las-cruces-new-mexico-us-sample-364073",
   "sample_asset_name": "beamstation_364073_restaurants-us-nm_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/364073/beamstation_364073_restaurants-us-nm_SAMPLE_DIST.csv",
-  "sample_records": 40,
-  "sample_sha256": "70dfd5af3a7bf3b502a9c0c34fc01c069de6c5cd26e7bdb1f10ecfd64af30231",
-  "sample_size_bytes": 137720,
-  "total_records": 407
+  "sample_records": 39,
+  "sample_sha256": "56a44aea236434a8077149b3358be1202c6872ca482d243d822c6ca6b469cd56",
+  "sample_size_bytes": 138751,
+  "total_records": 393
 }
