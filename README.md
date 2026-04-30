@@ -1,6 +1,6 @@
 # All Restaurants in Las Cruces, New Mexico, US
 
-> Free BeamStation sample export with 32 rows and masked direct-contact fields.
+> Free BeamStation sample export with 42 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `364073` |
 | Location | Las Cruces |
 | Category | Restaurants |
-| Full dataset size | 329 records |
-| Free sample size | 32 records (9.73%) |
-| Last export | 2026-04-23T11:04:03.876019+00:00 |
+| Full dataset size | 421 records |
+| Free sample size | 42 records (9.98%) |
+| Last export | 2026-04-30T11:08:05.649906+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-las-cruces-new-mexico-us-sample-364073/releases/download/sample-latest/beamstation_364073_restaurants-us-nm_SAMPLE_DIST.csv) |
 
 ## What is in this sample
